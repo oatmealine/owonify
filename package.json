@@ -1,0 +1,27 @@
+{
+  "name": "owonify",
+  "version": "1.0.0",
+  "description": "translate a sentence into owonese",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo 'no tests needed'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thefoxbot/owonify.git"
+  },
+  "keywords": [
+    "owonese",
+    "owo",
+    "owonify",
+    "nodejs",
+    "npm",
+    "joke"
+  ],
+  "author": "thefox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thefoxbot/owonify/issues"
+  },
+  "homepage": "https://github.com/thefoxbot/owonify#readme"
+}
